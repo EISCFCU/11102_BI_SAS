@@ -4,7 +4,7 @@
 
 # SAS 帳號註冊
 
-1.連結：https://www.sas.com/zh_tw/software/on-demand-for-academics.html
+1.SAS網頁連結：https://www.sas.com/zh_tw/software/on-demand-for-academics.html
 
 
 2.點選[Access Now]
