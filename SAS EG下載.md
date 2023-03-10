@@ -4,8 +4,6 @@
 
 1.連結：https://www.sas.com/zh_tw/software/on-demand-for-academics.html
 
-![image](https://user-images.githubusercontent.com/103306835/163938096-8fdface4-3ade-43ee-8f6e-17a24c82a783.png)
-
 2.點選[Access Now]
 
 ![image](https://user-images.githubusercontent.com/103306835/163938115-0e51ec7b-2a0f-4684-9677-d23f414c723d.png)
